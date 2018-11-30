@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Space Age Cyrillic';
+    src: url('SpaceAgeCyrillic-Regular.woff2') format('woff2'),
+        url('SpaceAgeCyrillic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
